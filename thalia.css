@@ -1,0 +1,19 @@
+ body {
+    margin: 0;
+    padding: 0;
+    background: #c9a1a1; /* beige claro */
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #4b3f2e;
+  }
+  
+  
+  .envelope-container {
+    position: center;
+    width: 900px;
+    height: 800px;
+    margin: 100px auto 0 auto;
+  }
+  .envelope {
+    width: 60%;
+    height: 100%;
+  }
